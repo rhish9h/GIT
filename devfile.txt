@@ -2,3 +2,4 @@ my amazing bug fix
 deliberate merge conflict
 lot of issues
 testing rebase
+stash test
