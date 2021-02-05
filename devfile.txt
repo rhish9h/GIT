@@ -3,3 +3,4 @@ deliberate merge conflict
 lot of issues
 testing rebase
 stash test
+change from github - attempting merge conflict
